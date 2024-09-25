@@ -1,0 +1,7 @@
+{
+  "name": "Prueba33Login",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
